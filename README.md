@@ -1,6 +1,6 @@
 ## ArticlesHub - A Repository of Knowledge and Insights
 <br>
-Welcome to **ArticlesHub**, a curated collection of articles and expert contributions spanning a diverse range of topics, including technology, science, crypto, fintech, business, and personal development. This repository is dedicated to providing well-researched, insightful, and engaging content for readers worldwide.<br><br>
+Welcome to ArticlesHub, a curated collection of articles and expert contributions spanning a diverse range of topics, including technology, science, crypto, fintech, business, and personal development. This repository is dedicated to providing well-researched, insightful, and engaging content for readers worldwide.<br><br>
 
 ### 📚 Explore the Wiki
 All articles and contributions are systematically categorized in our **[Wiki](https://github.com/ArticlesHub/posts/wiki)** for easy navigation. Browse, read, and share the knowledge with others!
